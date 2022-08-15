@@ -208,16 +208,38 @@
 
 
 .dash1-move{
-    transform: rotate(45deg) translateX(7.5px) translateY(-2px);
+    transform: rotate(45deg) translateX(9px) translateY(-2px);
 }
 
 .dash3-move{
-    transform: rotate(-45deg) translateX(7.5px) translateY(2px);
+    transform: rotate(-45deg) translateX(9px) translateY(2px);
 }
 
 iframe{
     width:560px ;
     height:315px;
+}
+
+.research-projects{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.research-projects .description-container{
+    width: 200px;
+    height:200px;
+    box-shadow: 5px 5px 10px;
+    border-radius: 5px;
+
+    padding: 20px;
+    align-items: center;
+    
+    color: rgb(15, 15, 15);
+    background-color: white;
+
 }
 
 
@@ -291,8 +313,8 @@ iframe{
         font-size: 1rem;
     }
     iframe{
-        height: 210px;
-        width: 372px;
+        height: 197px;
+        width: 350px;
     }
 
     .nav-links{
@@ -328,5 +350,16 @@ iframe{
 
     .mobile-nav{
         transform: translate(0%) !important;
+    }
+
+    .research-projects .description-container{
+        
+        margin-top: 30px;
+        width: 300px;
+        height: 300px;
+    }
+
+    .research-projects{
+        flex-direction: row;
     }
 }
