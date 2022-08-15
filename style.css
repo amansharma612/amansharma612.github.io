@@ -161,6 +161,10 @@
     font-size: 0.2em;
 }
 
+.education{
+    list-style-type: disc;
+}
+
 .education li{
     padding-top: 20px;
     
@@ -257,6 +261,38 @@ table{
 
  
 }
+
+.submit-button{
+    border:none;
+    padding :15px;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    font-weight: 400;
+    border-radius: 30px;
+}
+
+.hobby-list{
+    list-style: none;
+    margin: 20px 0;
+    font-size: 1.2em;
+
+}
+
+.hobby-list li{
+    margin-top: 10px;
+}
+
+.hoby-hide li{
+    display:none;
+}
+
+ .display-enabler{
+    visibility: visible;
+}
+ .display-disabler{
+    display: none;
+}
+
 
 
 
@@ -380,5 +416,9 @@ table{
 
     .entry{
         font-size: 1.2rem;
+    }
+
+    .landing h1{
+        font-size: 2em;
     }
 }
