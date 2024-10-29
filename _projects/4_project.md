@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Data Adaptive Hashing for Document Retreival
+description: a project that redirects to another website
+img: assets/img/7.jpg
+redirect: https://unsplash.com
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
@@ -58,6 +59,8 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
+
+
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
