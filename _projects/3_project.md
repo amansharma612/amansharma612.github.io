@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Document and Query Likelihood evaluation for Learning to Rank Systems
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Document and Query Likelihood Evaluations for Learning to Rank Systems
+description: Assessing Quality of Neural Re-ranking based on certain training objectives
+img: assets/img/Document_Likelihood.png
+redirect: https://drive.google.com/file/d/1JIPRotUFVoIzTRUDZwdlsVkIYJlk2mg-/view?usp=drive_link
 importance: 3
 category: work
 ---

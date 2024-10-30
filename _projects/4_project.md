@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Data Adaptive Hashing for Document Retreival
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+description: Exploring LSH and Neural LSH algorithms for dense embedding search
+img: assets/img/LSH.jpg
+redirect: https://drive.google.com/file/d/1S5OIuiF1UH1XluBybT5yYT0aBbKoa26t/view?usp=drive_link
 importance: 3
 category: work
 ---

@@ -25,11 +25,13 @@ pagination:
 
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h2>{{ site.blog_description }}</h1>
   </div>
   {% endif %}
 
-{% if site.display_tags or site.display_categories %}
+  <p class = "tag-category-list"> Work in Progress. Will upload some posts soon.</p>
+
+<!-- {% if site.display_tags or site.display_categories %}
 
   <div class="tag-category-list">
     <ul class="p-0 m-0">
@@ -54,10 +56,11 @@ pagination:
       {% endfor %}
     </ul>
   </div>
-  {% endif %}
+  {% endif %} -->
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
-{% if featured_posts.size > 0 %}
+
+<!-- {% if featured_posts.size > 0 %}
 <br>
 
 <div class="container featured-posts">
@@ -99,9 +102,9 @@ pagination:
     </div>
     <hr>
 
-{% endif %}
+{% endif %} -->
 
-  <ul class="post-list">
+  <!-- <ul class="post-list">
 
     {% if page.pagination.enabled %}
       {% assign postlist = paginator.posts %}
@@ -191,6 +194,6 @@ pagination:
 
 {% if page.pagination.enabled %}
 {% include pagination.liquid %}
-{% endif %}
+{% endif %} -->
 
 </div>

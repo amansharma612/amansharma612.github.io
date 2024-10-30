@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Micrograd CUDA - Autodiff Tensor Compute Engine
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+description: Tensor compute engine for NVIDIA GPUs
+img: assets/img/augmented_computational_graph.png
+redirect: https://github.com/amansharma612/micrograd-cuda/tree/main/micrograd_clone_cuda_enhanced
 importance: 3
 category: work
 ---
