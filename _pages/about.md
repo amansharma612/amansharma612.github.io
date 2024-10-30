@@ -16,13 +16,7 @@ social: false # includes social icons at the bottom of the page
 
 Hello! I am final year undergraduate student at IIT Bombay. On the technical side, I am deeply passionate towards the areas of architecture, distributed systems, compilers and LLM training & inference.
 
-I am currently exploring the areas of ML systems, Natural Language Processing and Information Retrieval. You can find my work on the projects page. 
-
-
-
-
-
-
+I am currently exploring the areas of ML systems, Natural Language Processing and Information Retrieval. You can find my work on the projects page.
 
 <!-- # Title
 
