@@ -38,6 +38,7 @@ params:
   author: Aman Sharma
   ShowToc: true
   TocOpen: false
+  math: true
   
   profileMode:
     enabled: true
