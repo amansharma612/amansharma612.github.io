@@ -1,0 +1,55 @@
+baseURL: "https://amansharma612.github.io"
+title: Aman Sharma
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
+
+params:
+  env: production
+  title: Aman Sharma
+  description: "Final Year CSE Undergrad @ IIT Bombay."
+  author: Aman Sharma
+  ShowToc: true
+  TocOpen: false
+  
+  profileMode:
+    enabled: true
+    title: Aman Sharma
+    subtitle: "Final Year CSE Undergrad @ IIT Bombay. \nDeeply passionate towards the areas of architecture, distributed systems, compilers and LLM training & inference."
+    imageUrl: "/assets/img/Aman_Sharma.jpeg"
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: Aman Sharma
+    buttons:
+      - name: Blog
+        url: /posts/
+      - name: Projects
+        url: /projects/
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/amansharma612"
+    - name: linkedin
+      url: "https://linkedin.com/in/aman612"
