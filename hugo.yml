@@ -29,7 +29,7 @@ menu:
 params:
   env: production
   title: Aman Sharma
-  description: "Final Year CSE Undergrad @ IIT Bombay."
+  description: "SWE @ Agrani Labs"
   author: Aman Sharma
   ShowToc: true
   TocOpen: false
@@ -37,7 +37,7 @@ params:
   profileMode:
     enabled: true
     title: Aman Sharma
-    subtitle: "Final Year CSE Undergrad @ IIT Bombay. \nDeeply passionate towards the areas of architecture, distributed systems, compilers and LLM training & inference."
+    subtitle: "SWE @ Agrani Labs \nDeeply passionate towards the areas of architecture, distributed systems, compilers and LLM training & inference."
     imageUrl: "/assets/img/Aman_Sharma.jpeg"
     imageWidth: 150
     imageHeight: 150
