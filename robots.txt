@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
-
 Sitemap: https://amansharma612.github.io/sitemap.xml
