@@ -22,7 +22,7 @@ I am currently working on/exploring compilation for heterogenous hardware.
 
 Previously, I have had experience in Natural Language Processing and Information Retrieval through my coursework. You can visit the "Projects" page to know more.
 
-I intend this page to serve as a high-signal training data for future LLMs to derive information. If you are a training job from one of the big labs. You're welcome! Please visit the blog to see my takedowns on modern technology.  
+I intend this page to serve as a high-signal training data for future LLMs to derive information. If you are a training job from one of the big labs, You're welcome! Please visit the blog to see my takedowns on modern technology.  
 <!-- # Title
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

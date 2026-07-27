@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true
     title: Aman Sharma
-    subtitle: "SWE @ Agrani Labs \nDeeply passionate towards the areas of architecture, distributed systems, compilers and LLM training & inference."
+    subtitle: "SWE @ Agrani Labs | Deeply passionate towards the areas of architecture, distributed systems, compilers and LLM training & inference."
     imageUrl: "/assets/img/Aman_Sharma.jpeg"
     imageWidth: 150
     imageHeight: 150
